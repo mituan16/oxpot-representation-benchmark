@@ -1,0 +1,646 @@
+﻿split,descriptor,descriptor_category,short_chemical_interpretation,mean_normalized_gain,std_normalized_gain,n_seeds,n_records,rank_within_split,combined_rank
+random,fr_aniline,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.11097411110866702,0.037830501113082976,5,,1,
+random,fr_Al_COO,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.10676521584999495,0.06774356324461567,5,,2,
+random,SlogP_VSA10,lipophilicity,may encode lipophilicity-weighted structural information.,0.087144123128816,0.03948235795676481,5,,3,
+random,fr_COO2,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0784495666324456,0.04900084679254238,5,,4,
+random,EState_VSA8,polarity / charge-related,may encode charge or electrotopological-state information.,0.03756993683169622,0.01073408233706784,5,,5,
+random,SMR_VSA3,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.02987809535859451,0.010031358469079652,5,,6,
+random,NumAmideBonds,other RDKit descriptor,captures an RDKit-defined structural property.,0.029591706364037955,0.0037941030861767555,5,,7,
+random,SMR_VSA6,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.02046493784856183,0.007714394232725161,5,,8,
+random,MolMR,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.019661564115032004,0.0046767116232681915,5,,9,
+random,VSA_EState6,polarity / charge-related,may encode charge or electrotopological-state information.,0.019309090750289085,0.005128406747143955,5,,10,
+random,BertzCT,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.01890966033418474,0.00437213857612706,5,,11,
+random,SMR_VSA1,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.018873554111002146,0.007563179035852237,5,,12,
+random,fr_amide,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.01770751441811047,0.024237609270167954,5,,13,
+random,fr_quatN,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.016911574417434357,0.007413515852915706,5,,14,
+random,SlogP_VSA6,lipophilicity,may encode lipophilicity-weighted structural information.,0.015714186041647673,0.003581220404201613,5,,15,
+random,SMR_VSA7,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.014573293679776233,0.003940933017871079,5,,16,
+random,SlogP_VSA8,lipophilicity,may encode lipophilicity-weighted structural information.,0.014236358040805048,0.002623095950585812,5,,17,
+random,VSA_EState4,polarity / charge-related,may encode charge or electrotopological-state information.,0.013217979822401684,0.0024119934385927588,5,,18,
+random,fr_NH2,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.012245902632531499,0.02522891799841687,5,,19,
+random,fr_C_O_noCOO,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.011883737777713057,0.005417540494359009,5,,20,
+random,NumHeteroatoms,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.011691692728043379,0.002052906170258313,5,,21,
+random,NumAromaticRings,aromaticity / ring system,captures ring-system or aromaticity-related structure.,0.011659897457070847,0.006458953136848662,5,,22,
+random,RingCount,aromaticity / ring system,captures ring-system or aromaticity-related structure.,0.011139501227823824,0.007024457035686452,5,,23,
+random,SlogP_VSA1,lipophilicity,may encode lipophilicity-weighted structural information.,0.009681902947531958,0.0020875424360904705,5,,24,
+random,BCUT2D_MRLOW,other RDKit descriptor,captures an RDKit-defined structural property.,0.008317760994518352,0.0015544798621910912,5,,25,
+random,MaxPartialCharge,other RDKit descriptor,captures an RDKit-defined structural property.,0.008160675045417705,0.001864468080689618,5,,26,
+random,PEOE_VSA7,polarity / charge-related,may encode charge or electrotopological-state information.,0.008087633499771728,0.0018997094694894912,5,,27,
+random,PEOE_VSA8,polarity / charge-related,may encode charge or electrotopological-state information.,0.006584572443247998,0.001129883653611018,5,,28,
+random,VSA_EState2,polarity / charge-related,may encode charge or electrotopological-state information.,0.006139599685666438,0.0008194707742581805,5,,29,
+random,MolLogP,lipophilicity,may encode lipophilicity-weighted structural information.,0.006042125111133631,0.0010849201375528806,5,,30,
+random,fr_dihydropyridine,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.005903569811384177,0.0007767712635181703,5,,31,
+random,Chi0n,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.005635046175156358,0.004335784081204768,5,,32,
+random,EState_VSA1,polarity / charge-related,may encode charge or electrotopological-state information.,0.005609840329687499,0.010752215847989629,5,,33,
+random,Chi4v,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.00537380177630211,0.003848170183462662,5,,34,
+random,Chi0v,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.005013418544492497,0.004061247109944224,5,,35,
+random,PEOE_VSA10,polarity / charge-related,may encode charge or electrotopological-state information.,0.004816574639964917,0.0015991143706183123,5,,36,
+random,HallKierAlpha,other RDKit descriptor,captures an RDKit-defined structural property.,0.0047886673046565065,0.0011336260637097302,5,,37,
+random,VSA_EState10,polarity / charge-related,may encode charge or electrotopological-state information.,0.004623940377764941,0.0022811086105576296,5,,38,
+random,VSA_EState1,polarity / charge-related,may encode charge or electrotopological-state information.,0.004394339959027595,0.0008376479845162067,5,,39,
+random,NumHeterocycles,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.004178517595453098,0.0023161593890363217,5,,40,
+random,fr_Ar_N,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.004107695303466627,0.0029769667514080206,5,,41,
+random,fr_allylic_oxid,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.004066806428354254,0.0004851612143950728,5,,42,
+random,fr_C_O,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.004052592006887855,0.005313363147234904,5,,43,
+random,PEOE_VSA1,polarity / charge-related,may encode charge or electrotopological-state information.,0.003965366136573537,0.0013296186642570752,5,,44,
+random,BCUT2D_MWHI,other RDKit descriptor,captures an RDKit-defined structural property.,0.003790245361666978,0.0010333447607741523,5,,45,
+random,fr_hdrzone,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0036913304264469685,0.0008080449103701912,5,,46,
+random,PEOE_VSA9,polarity / charge-related,may encode charge or electrotopological-state information.,0.0036787432398950074,0.0024763698863305016,5,,47,
+random,Chi4n,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.003424757533148165,0.0031142084201409644,5,,48,
+random,MinEStateIndex,other RDKit descriptor,captures an RDKit-defined structural property.,0.0033900642937483515,0.0017958234271786137,5,,49,
+random,Chi2n,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.0033481578535744377,0.003641319975990781,5,,50,
+random,Chi1,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.003276673310675013,0.00452015046504955,5,,51,
+random,EState_VSA7,polarity / charge-related,may encode charge or electrotopological-state information.,0.003219568024377533,0.001452981600993202,5,,52,
+random,SlogP_VSA2,lipophilicity,may encode lipophilicity-weighted structural information.,0.002914125783372949,0.0005527231137258182,5,,53,
+random,SlogP_VSA11,lipophilicity,may encode lipophilicity-weighted structural information.,0.0028431176245964423,0.0010039539139277266,5,,54,
+random,MaxAbsPartialCharge,other RDKit descriptor,captures an RDKit-defined structural property.,0.0028280849742528223,0.0011641125930650547,5,,55,
+random,SMR_VSA10,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.00277021384077128,0.00047041602437419665,5,,56,
+random,fr_NH0,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0026629826276449065,0.0008129596549198825,5,,57,
+random,fr_C_S,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0024755335161029657,0.0017036649619103818,5,,58,
+random,PEOE_VSA3,polarity / charge-related,may encode charge or electrotopological-state information.,0.0024475082427919933,0.0009307242531058589,5,,59,
+random,NumAliphaticHeterocycles,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0024117485588899157,0.0006758428293315346,5,,60,
+random,PEOE_VSA2,polarity / charge-related,may encode charge or electrotopological-state information.,0.002397337598805778,0.0007046289786195231,5,,61,
+random,NumHAcceptors,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0023263257346458474,0.0007499085737656809,5,,62,
+random,MaxEStateIndex,other RDKit descriptor,captures an RDKit-defined structural property.,0.002263032217889071,0.0018179778097484806,5,,63,
+random,PEOE_VSA11,polarity / charge-related,may encode charge or electrotopological-state information.,0.0022165474727842346,0.0018369101370492075,5,,64,
+random,fr_pyridine,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0021643487794934862,0.0002898724982135408,5,,65,
+random,TPSA,other RDKit descriptor,captures an RDKit-defined structural property.,0.002142174945829716,0.00036215834644937186,5,,66,
+random,fr_ketone,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.002043863022049683,0.004408246444732004,5,,67,
+random,fr_Ar_NH,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0019218574962416115,0.0005072862534973552,5,,68,
+random,MinPartialCharge,other RDKit descriptor,captures an RDKit-defined structural property.,0.001782599844613529,0.000521658364751188,5,,69,
+random,PEOE_VSA4,polarity / charge-related,may encode charge or electrotopological-state information.,0.0017730994178976312,0.00031425070323844845,5,,70,
+random,HeavyAtomMolWt,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.0017626628518252357,0.0023479974253150077,5,,71,
+random,NOCount,other RDKit descriptor,captures an RDKit-defined structural property.,0.0017436871604791077,0.0010670199497459067,5,,72,
+random,Chi3n,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.001689215834532895,0.0010883446978973924,5,,73,
+random,Chi1v,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.0016809483726072578,0.0009833758125911292,5,,74,
+random,fr_NH1,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0016277228139755435,0.0007421058788360417,5,,75,
+random,fr_Nhpyrrole,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.001605734722014159,0.0011563950042443735,5,,76,
+random,VSA_EState5,polarity / charge-related,may encode charge or electrotopological-state information.,0.001498365281981558,0.0003914150026795933,5,,77,
+random,NumAromaticCarbocycles,aromaticity / ring system,captures ring-system or aromaticity-related structure.,0.0014589915355323136,0.001000178520536777,5,,78,
+random,LabuteASA,other RDKit descriptor,captures an RDKit-defined structural property.,0.001456244134188264,0.0008469062982558046,5,,79,
+random,PEOE_VSA12,polarity / charge-related,may encode charge or electrotopological-state information.,0.0014462644033436819,0.00039761945919594975,5,,80,
+random,fr_guanido,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0014461797082396023,0.0004148443145745335,5,,81,
+random,SPS,other RDKit descriptor,captures an RDKit-defined structural property.,0.0014456146218872607,0.0002449537290544468,5,,82,
+random,EState_VSA9,polarity / charge-related,may encode charge or electrotopological-state information.,0.0014308944502204042,0.0005248731485426292,5,,83,
+random,fr_benzene,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0014085904834296931,0.001418079468712102,5,,84,
+random,Chi2v,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.0013879045606389998,0.0010590079617548973,5,,85,
+random,BCUT2D_LOGPHI,lipophilicity,may encode lipophilicity-weighted structural information.,0.0013860138715095648,0.00015728001197829313,5,,86,
+random,Chi0,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.0013744712013292032,0.0017644125402933657,5,,87,
+random,SlogP_VSA12,lipophilicity,may encode lipophilicity-weighted structural information.,0.001299389305368167,0.0009632604593486474,5,,88,
+random,BalabanJ,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.0012966788219797507,0.0010091109944566775,5,,89,
+random,NumRotatableBonds,other RDKit descriptor,captures an RDKit-defined structural property.,0.001256794765660433,0.0006292002930476321,5,,90,
+random,MaxAbsEStateIndex,other RDKit descriptor,captures an RDKit-defined structural property.,0.0012387523886483226,0.0004946779651720866,5,,91,
+random,fr_oxime,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0012007386274413294,0.0001261836613174141,5,,92,
+random,Chi3v,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.001150968054323197,0.0006056494224579224,5,,93,
+random,MinAbsPartialCharge,other RDKit descriptor,captures an RDKit-defined structural property.,0.0011344120165620193,0.00044057005724712495,5,,94,
+random,NumSaturatedRings,aromaticity / ring system,captures ring-system or aromaticity-related structure.,0.0011313185531516678,0.00018133540704959154,5,,95,
+random,EState_VSA5,polarity / charge-related,may encode charge or electrotopological-state information.,0.001113217440582872,0.00039951046597104257,5,,96,
+random,BCUT2D_MRHI,other RDKit descriptor,captures an RDKit-defined structural property.,0.0011042558101369761,0.00020536199250465443,5,,97,
+random,fr_Ar_OH,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0010904177656126802,0.0024382482477833855,5,,98,
+random,fr_Ar_COO,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0010546511663667222,0.000810587695887316,5,,99,
+random,fr_ketone_Topliss,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0010355624509065038,0.000412922965954067,5,,100,
+random,EState_VSA4,polarity / charge-related,may encode charge or electrotopological-state information.,0.0010293033131703107,0.0005449942481311625,5,,101,
+random,fr_hdrzine,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0010008333094270955,0.0002828498275497161,5,,102,
+random,SMR_VSA9,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.0009757341285491734,0.0001899410073445236,5,,103,
+random,FractionCSP3,other RDKit descriptor,captures an RDKit-defined structural property.,0.0009686146644612035,0.0003458277415101272,5,,104,
+random,PEOE_VSA14,polarity / charge-related,may encode charge or electrotopological-state information.,0.0009425818622520339,0.0012101486035320434,5,,105,
+random,fr_aryl_methyl,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0009359746044651195,0.0003109704179957832,5,,106,
+random,VSA_EState3,polarity / charge-related,may encode charge or electrotopological-state information.,0.0009343385822735186,0.00035480741998184624,5,,107,
+random,SMR_VSA5,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.0009273888365880261,0.00019313883374148767,5,,108,
+random,Chi1n,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.0009262134817682388,0.0006760277371423613,5,,109,
+random,PEOE_VSA5,polarity / charge-related,may encode charge or electrotopological-state information.,0.0009082682279632518,0.0002144781988135287,5,,110,
+random,NHOHCount,other RDKit descriptor,captures an RDKit-defined structural property.,0.0009010830572360256,0.00031140290435879923,5,,111,
+random,fr_bicyclic,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0008959049086522052,0.00040438274042234036,5,,112,
+random,MinAbsEStateIndex,other RDKit descriptor,captures an RDKit-defined structural property.,0.0008813867787424538,0.00045938220993954577,5,,113,
+random,NumAliphaticRings,aromaticity / ring system,captures ring-system or aromaticity-related structure.,0.0008685097364805556,0.00029822284440351933,5,,114,
+random,VSA_EState7,polarity / charge-related,may encode charge or electrotopological-state information.,0.0008498148206812544,0.00041136595522334337,5,,115,
+random,BCUT2D_LOGPLOW,lipophilicity,may encode lipophilicity-weighted structural information.,0.0008361101353460901,0.00022336607241611937,5,,116,
+random,SMR_VSA4,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.000826320982592509,0.0005730537575554869,5,,117,
+random,SlogP_VSA4,lipophilicity,may encode lipophilicity-weighted structural information.,0.000812424075888831,0.00029928332064446043,5,,118,
+random,VSA_EState8,polarity / charge-related,may encode charge or electrotopological-state information.,0.0008105580709604068,0.0001373310093919332,5,,119,
+random,NumAtomStereoCenters,other RDKit descriptor,captures an RDKit-defined structural property.,0.0007918995903754179,0.000582969040204216,5,,120,
+random,VSA_EState9,polarity / charge-related,may encode charge or electrotopological-state information.,0.0007910564927496184,0.000224097937258637,5,,121,
+random,Kappa1,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.0007852633058371011,0.0002896389456916289,5,,122,
+random,fr_Al_OH,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0007797142672106822,0.0004796561199341537,5,,123,
+random,FpDensityMorgan3,other RDKit descriptor,captures an RDKit-defined structural property.,0.000763370734765795,0.00023983823367622223,5,,124,
+random,SlogP_VSA3,lipophilicity,may encode lipophilicity-weighted structural information.,0.0007444443582437122,0.0002758397561500528,5,,125,
+random,NumAromaticHeterocycles,aromaticity / ring system,captures ring-system or aromaticity-related structure.,0.0007166160916471048,0.00022025962668250273,5,,126,
+random,EState_VSA6,polarity / charge-related,may encode charge or electrotopological-state information.,0.0007063621565679317,0.00020534482221509458,5,,127,
+random,NumSaturatedHeterocycles,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0006897298297429914,0.00025580112236534957,5,,128,
+random,fr_para_hydroxylation,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0006825162511132094,0.00012661629525219904,5,,129,
+random,qed,other RDKit descriptor,captures an RDKit-defined structural property.,0.0006727898884048962,9.285451228671246e-05,5,,130,
+random,PEOE_VSA13,polarity / charge-related,may encode charge or electrotopological-state information.,0.0006658564643447914,7.52306205002347e-05,5,,131,
+random,BCUT2D_CHGLO,polarity / charge-related,may encode charge or electrotopological-state information.,0.0006593137980919076,0.00011850347982621529,5,,132,
+random,Kappa2,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.000656532780024579,0.000276704477922564,5,,133,
+random,fr_Imine,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0006484567172462247,0.0005309552002405627,5,,134,
+random,EState_VSA3,polarity / charge-related,may encode charge or electrotopological-state information.,0.0006326698910149427,0.00012977859435340532,5,,135,
+random,FpDensityMorgan2,other RDKit descriptor,captures an RDKit-defined structural property.,0.0005923568822604525,0.00017763879414868172,5,,136,
+random,NumSaturatedCarbocycles,other RDKit descriptor,captures an RDKit-defined structural property.,0.0005918749111850396,0.0010492696520781923,5,,137,
+random,Phi,other RDKit descriptor,captures an RDKit-defined structural property.,0.0005884320833921747,8.487550816217166e-05,5,,138,
+random,fr_imidazole,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0005481364596615769,0.00034431805234648195,5,,139,
+random,BCUT2D_CHGHI,polarity / charge-related,may encode charge or electrotopological-state information.,0.0005381696928983085,0.0001296052660301924,5,,140,
+random,fr_COO,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0005278963983505108,0.0008683334580986561,5,,141,
+random,NumAliphaticCarbocycles,other RDKit descriptor,captures an RDKit-defined structural property.,0.0004992784429459636,0.000171016741542966,5,,142,
+random,NumHDonors,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0004857323720888703,0.0005543953177623926,5,,143,
+random,SlogP_VSA5,lipophilicity,may encode lipophilicity-weighted structural information.,0.00047967544927224646,6.96903237887298e-05,5,,144,
+random,EState_VSA10,polarity / charge-related,may encode charge or electrotopological-state information.,0.00047817010687223907,0.0003081793954897162,5,,145,
+random,NumBridgeheadAtoms,other RDKit descriptor,captures an RDKit-defined structural property.,0.0004745109760987365,0.00044804571654867044,5,,146,
+random,MolWt,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.000473034856817149,0.00045857888080284425,5,,147,
+random,PEOE_VSA6,polarity / charge-related,may encode charge or electrotopological-state information.,0.0004688886598370083,0.0001013439996523748,5,,148,
+random,FpDensityMorgan1,other RDKit descriptor,captures an RDKit-defined structural property.,0.0004649660893409651,0.00015336832827920354,5,,149,
+random,Kappa3,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.0004584530588985614,8.263825340486971e-05,5,,150,
+random,EState_VSA2,polarity / charge-related,may encode charge or electrotopological-state information.,0.0004560485929130713,0.00010775395156629392,5,,151,
+random,ExactMolWt,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.0004261949443797295,0.0007228997038013652,5,,152,
+random,BCUT2D_MWLOW,other RDKit descriptor,captures an RDKit-defined structural property.,0.00039299534536264304,8.224152304197623e-05,5,,153,
+random,NumValenceElectrons,other RDKit descriptor,captures an RDKit-defined structural property.,0.0003264045119904233,0.0001494564806405835,5,,154,
+random,fr_piperdine,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.00031460925277564626,0.000184153249375215,5,,155,
+random,SMR_VSA2,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.000235213171092092,0.00014737486330661573,5,,156,
+random,HeavyAtomCount,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.00022518768437126865,0.0005035349699499237,5,,157,
+random,fr_priamide,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0002179847082800424,0.00020927236026261142,5,,158,
+random,fr_amidine,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0002097453044662924,0.00014498844707343836,5,,159,
+random,fr_ArN,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0002066386965544267,0.00028332831323666735,5,,160,
+random,fr_urea,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0001954634895434383,0.0002692565132515145,5,,161,
+random,fr_phenol,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.00016050490427045288,0.0003588998766708289,5,,162,
+random,fr_unbrch_alkane,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0001599313205125632,0.0002400921881733004,5,,163,
+random,fr_azide,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.00015031514035674488,0.0001381663003798063,5,,164,
+random,fr_nitroso,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.00013649147121584665,0.00018730397323508618,5,,165,
+random,fr_furan,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0001205026211946497,0.0002694520524581436,5,,166,
+random,NumSpiroAtoms,other RDKit descriptor,captures an RDKit-defined structural property.,0.00011420236444020156,0.00025536425007949536,5,,167,
+random,fr_piperzine,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.00011315562100626636,0.00025302366060621476,5,,168,
+random,fr_SH,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,9.388857882101515e-05,0.00020994124455463693,5,,169,
+random,NumUnspecifiedAtomStereoCenters,other RDKit descriptor,captures an RDKit-defined structural property.,7.210494236823123e-05,0.0001612315526490697,5,,170,
+random,fr_Al_OH_noTert,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,6.147613021950214e-05,0.00013746480616443586,5,,171,
+random,fr_Ndealkylation2,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,3.875687022692073e-05,8.666299642253245e-05,5,,172,
+random,fr_Ndealkylation1,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,6.299989017915288e-06,1.4087203701560723e-05,5,,173,
+random,EState_VSA11,polarity / charge-related,may encode charge or electrotopological-state information.,0.0,0.0,5,,174,
+random,NumRadicalElectrons,other RDKit descriptor,captures an RDKit-defined structural property.,0.0,0.0,5,,175,
+random,SMR_VSA8,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.0,0.0,5,,176,
+random,SlogP_VSA7,lipophilicity,may encode lipophilicity-weighted structural information.,0.0,0.0,5,,177,
+random,SlogP_VSA9,lipophilicity,may encode lipophilicity-weighted structural information.,0.0,0.0,5,,178,
+random,fr_HOCCN,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,179,
+random,fr_N_O,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,180,
+random,fr_aldehyde,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,181,
+random,fr_alkyl_carbamate,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,182,
+random,fr_alkyl_halide,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,183,
+random,fr_azo,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,184,
+random,fr_barbitur,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,185,
+random,fr_benzodiazepine,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,186,
+random,fr_diazo,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,187,
+random,fr_epoxide,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,188,
+random,fr_ester,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,189,
+random,fr_ether,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,190,
+random,fr_halogen,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,191,
+random,fr_imide,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,192,
+random,fr_isocyan,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,193,
+random,fr_isothiocyan,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,194,
+random,fr_lactam,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,195,
+random,fr_lactone,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,196,
+random,fr_methoxy,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,197,
+random,fr_morpholine,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,198,
+random,fr_nitrile,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,199,
+random,fr_nitro,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,200,
+random,fr_nitro_arom,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,201,
+random,fr_nitro_arom_nonortho,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,202,
+random,fr_oxazole,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,203,
+random,fr_phenol_noOrthoHbond,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,204,
+random,fr_phos_acid,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,205,
+random,fr_phos_ester,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,206,
+random,fr_prisulfonamd,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,207,
+random,fr_sulfide,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,208,
+random,fr_sulfonamd,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,209,
+random,fr_sulfone,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,210,
+random,fr_term_acetylene,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,211,
+random,fr_tetrazole,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,212,
+random,fr_thiazole,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,213,
+random,fr_thiocyan,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,214,
+random,fr_thiophene,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,215,
+scaffold,fr_aniline,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.18503340501908894,0.06228796859447796,5,,1,
+scaffold,SlogP_VSA10,lipophilicity,may encode lipophilicity-weighted structural information.,0.05537746122667703,0.04481893335404247,5,,2,
+scaffold,fr_COO2,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.05378499523096793,0.06538659568515719,5,,3,
+scaffold,fr_Al_COO,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.05233292814511008,0.04899897573066647,5,,4,
+scaffold,EState_VSA8,polarity / charge-related,may encode charge or electrotopological-state information.,0.042845368555785815,0.007504904199397771,5,,5,
+scaffold,EState_VSA1,polarity / charge-related,may encode charge or electrotopological-state information.,0.02706224159415751,0.02053845658621581,5,,6,
+scaffold,NumSaturatedCarbocycles,other RDKit descriptor,captures an RDKit-defined structural property.,0.024399469502800242,0.03254907842464526,5,,7,
+scaffold,MolMR,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.0232162719449853,0.005737123212379138,5,,8,
+scaffold,SlogP_VSA8,lipophilicity,may encode lipophilicity-weighted structural information.,0.022366985051517317,0.011486160929761959,5,,9,
+scaffold,BertzCT,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.02084112452998443,0.009546701886072782,5,,10,
+scaffold,fr_amide,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.019526876301629657,0.016129648290897084,5,,11,
+scaffold,SMR_VSA6,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.018853531445756216,0.0028745785520484326,5,,12,
+scaffold,NumAmideBonds,other RDKit descriptor,captures an RDKit-defined structural property.,0.01861791658145699,0.005804100790753479,5,,13,
+scaffold,SMR_VSA3,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.01773725739188744,0.005107728924160767,5,,14,
+scaffold,NumHeteroatoms,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.016901237366593633,0.011531494553962232,5,,15,
+scaffold,fr_quatN,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.016698488254203996,0.008870475759516081,5,,16,
+scaffold,SlogP_VSA6,lipophilicity,may encode lipophilicity-weighted structural information.,0.01566660050037067,0.004497090301897705,5,,17,
+scaffold,MaxPartialCharge,other RDKit descriptor,captures an RDKit-defined structural property.,0.013383040139765334,0.0033101974367819474,5,,18,
+scaffold,SMR_VSA1,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.012103119066147531,0.0028301052094895987,5,,19,
+scaffold,SlogP_VSA1,lipophilicity,may encode lipophilicity-weighted structural information.,0.010892986452762406,0.0033526099953068845,5,,20,
+scaffold,fr_C_O_noCOO,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.010711883429607763,0.004628513793937667,5,,21,
+scaffold,NumAromaticRings,aromaticity / ring system,captures ring-system or aromaticity-related structure.,0.00958323168973018,0.015504557025408318,5,,22,
+scaffold,fr_Ar_N,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.009000394365895406,0.00922343960324447,5,,23,
+scaffold,PEOE_VSA7,polarity / charge-related,may encode charge or electrotopological-state information.,0.008643449764676282,0.004098135573295873,5,,24,
+scaffold,VSA_EState2,polarity / charge-related,may encode charge or electrotopological-state information.,0.007869052020169224,0.002391286832183887,5,,25,
+scaffold,fr_C_O,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0076904070421387515,0.007866744556491155,5,,26,
+scaffold,VSA_EState6,polarity / charge-related,may encode charge or electrotopological-state information.,0.00740555453652858,0.007642860062187421,5,,27,
+scaffold,VSA_EState4,polarity / charge-related,may encode charge or electrotopological-state information.,0.007180992516992184,0.002399825096700799,5,,28,
+scaffold,RingCount,aromaticity / ring system,captures ring-system or aromaticity-related structure.,0.006668525774201526,0.006716289247370036,5,,29,
+scaffold,fr_ArN,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.006608411406269761,0.01449165441276354,5,,30,
+scaffold,BCUT2D_MRLOW,other RDKit descriptor,captures an RDKit-defined structural property.,0.006402344399288979,0.0029905321842906103,5,,31,
+scaffold,SMR_VSA7,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.006318687082861827,0.0027997302979957746,5,,32,
+scaffold,HallKierAlpha,other RDKit descriptor,captures an RDKit-defined structural property.,0.00620414662094576,0.0019219163129661954,5,,33,
+scaffold,EState_VSA7,polarity / charge-related,may encode charge or electrotopological-state information.,0.0058678152257151135,0.001656670606714423,5,,34,
+scaffold,Chi4v,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.005737449940284144,0.002582047701498961,5,,35,
+scaffold,PEOE_VSA8,polarity / charge-related,may encode charge or electrotopological-state information.,0.005694662642714439,0.0007660421859141121,5,,36,
+scaffold,VSA_EState10,polarity / charge-related,may encode charge or electrotopological-state information.,0.005614942762715023,0.0016885044515001677,5,,37,
+scaffold,MolLogP,lipophilicity,may encode lipophilicity-weighted structural information.,0.005537195898140471,0.0007190425025274238,5,,38,
+scaffold,Chi4n,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.005280952333509409,0.002987838811201604,5,,39,
+scaffold,fr_dihydropyridine,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.005105385987182784,0.005803702777617197,5,,40,
+scaffold,BCUT2D_MWHI,other RDKit descriptor,captures an RDKit-defined structural property.,0.004439482713558992,0.0005348193332070976,5,,41,
+scaffold,NumHeterocycles,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.004429043871287905,0.004395346071069669,5,,42,
+scaffold,PEOE_VSA1,polarity / charge-related,may encode charge or electrotopological-state information.,0.004378975441981324,0.0014720913168092319,5,,43,
+scaffold,SlogP_VSA11,lipophilicity,may encode lipophilicity-weighted structural information.,0.004343344358297355,0.0019177616947617549,5,,44,
+scaffold,VSA_EState1,polarity / charge-related,may encode charge or electrotopological-state information.,0.004223440852078654,0.0006387100924413597,5,,45,
+scaffold,fr_allylic_oxid,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.004052774436443695,0.0006955727107627711,5,,46,
+scaffold,PEOE_VSA11,polarity / charge-related,may encode charge or electrotopological-state information.,0.0037066779061213128,0.0028087378647780213,5,,47,
+scaffold,Chi2v,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.0037060946880426424,0.0024795117753016937,5,,48,
+scaffold,MinAbsPartialCharge,other RDKit descriptor,captures an RDKit-defined structural property.,0.003702157802284534,0.003972970189573641,5,,49,
+scaffold,fr_hdrzone,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.003620235643523004,0.0006626029138829125,5,,50,
+scaffold,NumHAcceptors,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0035335610920869892,0.00192334921282369,5,,51,
+scaffold,PEOE_VSA3,polarity / charge-related,may encode charge or electrotopological-state information.,0.003382741965337463,0.0006066918158425376,5,,52,
+scaffold,fr_C_S,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0033529401665705174,0.0017326669511624068,5,,53,
+scaffold,Chi2n,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.0033126647562643865,0.002003224310566415,5,,54,
+scaffold,Chi0n,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.0032738716638281906,0.0011526293652833139,5,,55,
+scaffold,PEOE_VSA10,polarity / charge-related,may encode charge or electrotopological-state information.,0.0032699887341278294,0.001885566126746979,5,,56,
+scaffold,SMR_VSA10,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.0031087547614034312,0.0006941156627667535,5,,57,
+scaffold,PEOE_VSA9,polarity / charge-related,may encode charge or electrotopological-state information.,0.0028916200906349016,0.0015024991049813583,5,,58,
+scaffold,fr_NH0,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0028761962908783337,0.0006200925159216054,5,,59,
+scaffold,LabuteASA,other RDKit descriptor,captures an RDKit-defined structural property.,0.0028101671817442227,0.004204963544089365,5,,60,
+scaffold,NumSaturatedRings,aromaticity / ring system,captures ring-system or aromaticity-related structure.,0.002668272590995912,0.0024116882472558984,5,,61,
+scaffold,NumAliphaticHeterocycles,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0026574349602841068,0.00046996612432561403,5,,62,
+scaffold,fr_Ar_NH,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0026534498038209456,0.0008960012594339042,5,,63,
+scaffold,BCUT2D_LOGPHI,lipophilicity,may encode lipophilicity-weighted structural information.,0.00263887609489069,0.0010152106017349003,5,,64,
+scaffold,NumAromaticCarbocycles,aromaticity / ring system,captures ring-system or aromaticity-related structure.,0.002637699753234207,0.0009716230691477703,5,,65,
+scaffold,fr_NH1,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0026202850932161986,0.0013872778192775613,5,,66,
+scaffold,MinEStateIndex,other RDKit descriptor,captures an RDKit-defined structural property.,0.0026049365281279246,0.0016798249178691987,5,,67,
+scaffold,MaxAbsPartialCharge,other RDKit descriptor,captures an RDKit-defined structural property.,0.0025406398395326516,0.0008299452330955172,5,,68,
+scaffold,EState_VSA4,polarity / charge-related,may encode charge or electrotopological-state information.,0.002473448086050619,0.0019229527919834154,5,,69,
+scaffold,PEOE_VSA2,polarity / charge-related,may encode charge or electrotopological-state information.,0.002443896196876583,0.0005346990883620113,5,,70,
+scaffold,fr_pyridine,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0023477027014965667,0.0006979822537378462,5,,71,
+scaffold,NumAromaticHeterocycles,aromaticity / ring system,captures ring-system or aromaticity-related structure.,0.002316398269981116,0.0017963566010296313,5,,72,
+scaffold,fr_guanido,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0022562517340272144,0.0010998664763993142,5,,73,
+scaffold,NOCount,other RDKit descriptor,captures an RDKit-defined structural property.,0.0022083491213159673,0.0017052922202876446,5,,74,
+scaffold,PEOE_VSA4,polarity / charge-related,may encode charge or electrotopological-state information.,0.002117896192674644,0.0018317907713928808,5,,75,
+scaffold,PEOE_VSA14,polarity / charge-related,may encode charge or electrotopological-state information.,0.002041888259729882,0.0025557839913432257,5,,76,
+scaffold,Chi1n,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.0020387552425975937,0.001477455414031891,5,,77,
+scaffold,SPS,other RDKit descriptor,captures an RDKit-defined structural property.,0.0019266014289921625,0.0008492979606365702,5,,78,
+scaffold,fr_Nhpyrrole,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0018645955280104855,0.00112250988824024,5,,79,
+scaffold,Chi0v,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.0018490222344971542,0.0013655789783530506,5,,80,
+scaffold,MinPartialCharge,other RDKit descriptor,captures an RDKit-defined structural property.,0.0018338056780436416,0.0003005800733874073,5,,81,
+scaffold,TPSA,other RDKit descriptor,captures an RDKit-defined structural property.,0.0017846949333761356,0.0006123539965454414,5,,82,
+scaffold,SlogP_VSA2,lipophilicity,may encode lipophilicity-weighted structural information.,0.0017751070703517346,0.0006252840289945152,5,,83,
+scaffold,Chi1v,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.0017413467098905846,0.0009200465817826003,5,,84,
+scaffold,NumRotatableBonds,other RDKit descriptor,captures an RDKit-defined structural property.,0.0017357058746415744,0.0013698781042017136,5,,85,
+scaffold,EState_VSA9,polarity / charge-related,may encode charge or electrotopological-state information.,0.0017348516053908656,0.0008528422349457088,5,,86,
+scaffold,PEOE_VSA12,polarity / charge-related,may encode charge or electrotopological-state information.,0.0016874138925324147,0.0005995697322988443,5,,87,
+scaffold,Phi,other RDKit descriptor,captures an RDKit-defined structural property.,0.0015135845946137535,0.0012643712863730236,5,,88,
+scaffold,FractionCSP3,other RDKit descriptor,captures an RDKit-defined structural property.,0.001448844190606545,0.0010086036099667122,5,,89,
+scaffold,qed,other RDKit descriptor,captures an RDKit-defined structural property.,0.001426944993292391,0.000798420165577472,5,,90,
+scaffold,VSA_EState8,polarity / charge-related,may encode charge or electrotopological-state information.,0.0013395476751137038,0.0006020455625610016,5,,91,
+scaffold,SMR_VSA4,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.001334244124762832,0.0005069916025872016,5,,92,
+scaffold,BCUT2D_LOGPLOW,lipophilicity,may encode lipophilicity-weighted structural information.,0.0013055288868517789,0.0006708854461117373,5,,93,
+scaffold,SlogP_VSA12,lipophilicity,may encode lipophilicity-weighted structural information.,0.0013014645004796037,0.0014016494494309085,5,,94,
+scaffold,MaxAbsEStateIndex,other RDKit descriptor,captures an RDKit-defined structural property.,0.0012953223894906335,0.00035747486200905424,5,,95,
+scaffold,VSA_EState5,polarity / charge-related,may encode charge or electrotopological-state information.,0.001279530547949156,0.000327130704143045,5,,96,
+scaffold,fr_ketone_Topliss,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.001268672643162111,0.0016348905020605404,5,,97,
+scaffold,fr_benzene,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0012618157329166296,0.0005165796394411572,5,,98,
+scaffold,fr_Ar_OH,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0012334269792388154,0.001763954825041834,5,,99,
+scaffold,fr_ketone,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0012322649548076696,0.0018671597187754334,5,,100,
+scaffold,SMR_VSA9,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.0012161023567814574,0.00044188980520369837,5,,101,
+scaffold,fr_Al_OH,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0012013438984084304,0.00029670024674142303,5,,102,
+scaffold,NHOHCount,other RDKit descriptor,captures an RDKit-defined structural property.,0.0011981654028910373,0.0015341772577285152,5,,103,
+scaffold,fr_hdrzine,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0011963356180692115,0.0004712218946526825,5,,104,
+scaffold,VSA_EState3,polarity / charge-related,may encode charge or electrotopological-state information.,0.0011665678753172378,0.00036825123284636523,5,,105,
+scaffold,fr_bicyclic,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.001158951082896173,0.000573452168402838,5,,106,
+scaffold,fr_aryl_methyl,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.001134697391271851,0.00037796101667470655,5,,107,
+scaffold,EState_VSA5,polarity / charge-related,may encode charge or electrotopological-state information.,0.001125180853337715,0.0006840109602646331,5,,108,
+scaffold,BalabanJ,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.0011020227853989109,0.0010259683804905895,5,,109,
+scaffold,fr_oxime,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0010902648959712606,0.0003541344986011149,5,,110,
+scaffold,VSA_EState9,polarity / charge-related,may encode charge or electrotopological-state information.,0.0010522613645048222,0.0005056103766978003,5,,111,
+scaffold,BCUT2D_MRHI,other RDKit descriptor,captures an RDKit-defined structural property.,0.0010499055448446777,0.00023442878023341684,5,,112,
+scaffold,MinAbsEStateIndex,other RDKit descriptor,captures an RDKit-defined structural property.,0.0010439532117258554,0.00023656219282257787,5,,113,
+scaffold,Kappa1,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.0010024357871062975,0.00043074077591773164,5,,114,
+scaffold,VSA_EState7,polarity / charge-related,may encode charge or electrotopological-state information.,0.000993182116119719,0.0003503073032932755,5,,115,
+scaffold,SlogP_VSA3,lipophilicity,may encode lipophilicity-weighted structural information.,0.0009665050353374271,0.00027592144093518077,5,,116,
+scaffold,Kappa3,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.0009491831759725061,0.0006170620574774021,5,,117,
+scaffold,FpDensityMorgan2,other RDKit descriptor,captures an RDKit-defined structural property.,0.0008971736520694315,0.00038397256060262785,5,,118,
+scaffold,MaxEStateIndex,other RDKit descriptor,captures an RDKit-defined structural property.,0.0008913711183392686,0.0006653938966625353,5,,119,
+scaffold,fr_para_hydroxylation,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.000882166451088758,0.00019641910802400232,5,,120,
+scaffold,SMR_VSA5,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.0008750878035381146,0.00012144331407206836,5,,121,
+scaffold,ExactMolWt,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.0008511630118340361,0.0007889024880760544,5,,122,
+scaffold,NumSaturatedHeterocycles,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0008174568619872858,0.00030346995888332735,5,,123,
+scaffold,Kappa2,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.0007973710379211348,0.00045294867943795935,5,,124,
+scaffold,BCUT2D_CHGLO,polarity / charge-related,may encode charge or electrotopological-state information.,0.0007952244043770748,0.0002743199084395375,5,,125,
+scaffold,PEOE_VSA6,polarity / charge-related,may encode charge or electrotopological-state information.,0.0007735058102714318,0.00022422395967800583,5,,126,
+scaffold,fr_NH2,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0007215773391304738,0.0008807324966381572,5,,127,
+scaffold,EState_VSA3,polarity / charge-related,may encode charge or electrotopological-state information.,0.0007191971557295589,0.00024327386339059474,5,,128,
+scaffold,Chi1,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.0007020057692812027,0.0004999742905878713,5,,129,
+scaffold,BCUT2D_MWLOW,other RDKit descriptor,captures an RDKit-defined structural property.,0.0006904019556688067,0.00018450225754446833,5,,130,
+scaffold,Chi3v,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.0006890796439838439,0.00048637204867660213,5,,131,
+scaffold,BCUT2D_CHGHI,polarity / charge-related,may encode charge or electrotopological-state information.,0.0006817147709593616,0.0003201367811982664,5,,132,
+scaffold,PEOE_VSA13,polarity / charge-related,may encode charge or electrotopological-state information.,0.000670962043501643,0.00023496983984465692,5,,133,
+scaffold,MolWt,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.0006687784186014626,0.0005006326418954358,5,,134,
+scaffold,NumBridgeheadAtoms,other RDKit descriptor,captures an RDKit-defined structural property.,0.0006571997479093942,0.0004069269289864807,5,,135,
+scaffold,FpDensityMorgan3,other RDKit descriptor,captures an RDKit-defined structural property.,0.0006267657259580728,0.00019783212758894866,5,,136,
+scaffold,NumAliphaticCarbocycles,other RDKit descriptor,captures an RDKit-defined structural property.,0.0006237733865637142,0.00020500177086363756,5,,137,
+scaffold,EState_VSA6,polarity / charge-related,may encode charge or electrotopological-state information.,0.0006129271063188075,0.0001866999403099327,5,,138,
+scaffold,HeavyAtomMolWt,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.0005981938971688775,0.0004979465648736134,5,,139,
+scaffold,EState_VSA2,polarity / charge-related,may encode charge or electrotopological-state information.,0.0005675004237926794,0.00016368805042229527,5,,140,
+scaffold,PEOE_VSA5,polarity / charge-related,may encode charge or electrotopological-state information.,0.0005351835642785844,0.0003842207809801233,5,,141,
+scaffold,fr_Ar_COO,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0005350166252312829,0.00040119457945582513,5,,142,
+scaffold,Chi3n,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.0004966096735957738,0.00022110620064311963,5,,143,
+scaffold,SlogP_VSA4,lipophilicity,may encode lipophilicity-weighted structural information.,0.0004944652323726212,0.00016069706366343152,5,,144,
+scaffold,FpDensityMorgan1,other RDKit descriptor,captures an RDKit-defined structural property.,0.00048938137339584,0.00017447248748606376,5,,145,
+scaffold,NumAliphaticRings,aromaticity / ring system,captures ring-system or aromaticity-related structure.,0.00047652617711640673,0.00022046753410172657,5,,146,
+scaffold,SlogP_VSA5,lipophilicity,may encode lipophilicity-weighted structural information.,0.0004338192039989236,3.8088349588604035e-05,5,,147,
+scaffold,fr_furan,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.00039283799632500985,0.0008784124639275346,5,,148,
+scaffold,NumAtomStereoCenters,other RDKit descriptor,captures an RDKit-defined structural property.,0.00038910791159321533,0.0002453478596192922,5,,149,
+scaffold,fr_unbrch_alkane,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0003839623103797963,0.00023499179834317614,5,,150,
+scaffold,fr_priamide,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.000336870154023307,0.00019139930613749006,5,,151,
+scaffold,fr_Imine,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.00029802126949183297,0.0003542340739219451,5,,152,
+scaffold,EState_VSA10,polarity / charge-related,may encode charge or electrotopological-state information.,0.0002932192002126761,0.000393600733097554,5,,153,
+scaffold,fr_urea,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0002864240897138725,0.00041810429074607265,5,,154,
+scaffold,fr_N_O,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.00024142766901117697,0.00022934987172310893,5,,155,
+scaffold,fr_imidazole,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0002294232178514143,0.0003634118471656857,5,,156,
+scaffold,fr_piperdine,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0002182905500169534,0.00020654381213497467,5,,157,
+scaffold,fr_phenol,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.00021296179696788587,0.0004761970546307015,5,,158,
+scaffold,fr_piperzine,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.00021270337338916644,0.0002609110712563742,5,,159,
+scaffold,NumValenceElectrons,other RDKit descriptor,captures an RDKit-defined structural property.,0.00019443239610451277,0.00018829361679210296,5,,160,
+scaffold,fr_Ndealkylation1,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0001931782092614487,0.0004173820018504417,5,,161,
+scaffold,fr_azide,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.00019214669780055115,0.0001823603925845804,5,,162,
+scaffold,fr_amidine,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.00018814350879404869,0.00017869517978037208,5,,163,
+scaffold,SMR_VSA2,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.0001743538809047752,0.000165021298320709,5,,164,
+scaffold,NumHDonors,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.000171686509693247,0.0002351005429360733,5,,165,
+scaffold,NumSpiroAtoms,other RDKit descriptor,captures an RDKit-defined structural property.,0.00016557133072895544,0.00022903309015982683,5,,166,
+scaffold,NumUnspecifiedAtomStereoCenters,other RDKit descriptor,captures an RDKit-defined structural property.,0.00013429850697936784,0.00019996207951576385,5,,167,
+scaffold,Chi0,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.00012825751416686363,0.00012480006659099522,5,,168,
+scaffold,fr_nitroso,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0001200322490704845,0.0001717675991336679,5,,169,
+scaffold,fr_Ndealkylation2,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.00010427992716385313,0.00015782093827933411,5,,170,
+scaffold,fr_SH,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,7.057234151872639e-05,0.00015780455296720295,5,,171,
+scaffold,fr_COO,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,6.83612901102687e-05,0.00015286049171614493,5,,172,
+scaffold,fr_Al_OH_noTert,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,5.873652121119637e-05,0.00013133885419009338,5,,173,
+scaffold,EState_VSA11,polarity / charge-related,may encode charge or electrotopological-state information.,0.0,0.0,5,,174,
+scaffold,HeavyAtomCount,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.0,0.0,5,,175,
+scaffold,NumRadicalElectrons,other RDKit descriptor,captures an RDKit-defined structural property.,0.0,0.0,5,,176,
+scaffold,SMR_VSA8,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.0,0.0,5,,177,
+scaffold,SlogP_VSA7,lipophilicity,may encode lipophilicity-weighted structural information.,0.0,0.0,5,,178,
+scaffold,SlogP_VSA9,lipophilicity,may encode lipophilicity-weighted structural information.,0.0,0.0,5,,179,
+scaffold,fr_HOCCN,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,180,
+scaffold,fr_aldehyde,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,181,
+scaffold,fr_alkyl_carbamate,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,182,
+scaffold,fr_alkyl_halide,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,183,
+scaffold,fr_azo,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,184,
+scaffold,fr_barbitur,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,185,
+scaffold,fr_benzodiazepine,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,186,
+scaffold,fr_diazo,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,187,
+scaffold,fr_epoxide,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,188,
+scaffold,fr_ester,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,189,
+scaffold,fr_ether,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,190,
+scaffold,fr_halogen,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,191,
+scaffold,fr_imide,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,192,
+scaffold,fr_isocyan,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,193,
+scaffold,fr_isothiocyan,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,194,
+scaffold,fr_lactam,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,195,
+scaffold,fr_lactone,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,196,
+scaffold,fr_methoxy,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,197,
+scaffold,fr_morpholine,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,198,
+scaffold,fr_nitrile,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,199,
+scaffold,fr_nitro,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,200,
+scaffold,fr_nitro_arom,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,201,
+scaffold,fr_nitro_arom_nonortho,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,202,
+scaffold,fr_oxazole,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,203,
+scaffold,fr_phenol_noOrthoHbond,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,204,
+scaffold,fr_phos_acid,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,205,
+scaffold,fr_phos_ester,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,206,
+scaffold,fr_prisulfonamd,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,207,
+scaffold,fr_sulfide,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,208,
+scaffold,fr_sulfonamd,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,209,
+scaffold,fr_sulfone,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,210,
+scaffold,fr_term_acetylene,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,211,
+scaffold,fr_tetrazole,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,212,
+scaffold,fr_thiazole,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,213,
+scaffold,fr_thiocyan,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,214,
+scaffold,fr_thiophene,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,5,,215,
+combined,fr_aniline,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.14800375806387797,0.062321477411394155,,10,,1
+combined,fr_Al_COO,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.07954907199755251,0.06268753623851407,,10,,2
+combined,SlogP_VSA10,lipophilicity,may encode lipophilicity-weighted structural information.,0.07126079217774652,0.04319616177431208,,10,,3
+combined,fr_COO2,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.06611728093170675,0.056002789843967386,,10,,4
+combined,EState_VSA8,polarity / charge-related,may encode charge or electrotopological-state information.,0.04020765269374102,0.00916364733506617,,10,,5
+combined,NumAmideBonds,other RDKit descriptor,captures an RDKit-defined structural property.,0.024104811472747473,0.007404138274953937,,10,,6
+combined,SMR_VSA3,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.023807676375240974,0.009862206516270573,,10,,7
+combined,MolMR,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.02143891803000865,0.0052782017859173865,,10,,8
+combined,BertzCT,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.01987539243208459,0.007073792283027355,,10,,9
+combined,SMR_VSA6,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.019659234647159025,0.0055536964407771556,,10,,10
+combined,fr_amide,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.018617195359870064,0.01943303093716552,,10,,11
+combined,SlogP_VSA8,lipophilicity,may encode lipophilicity-weighted structural information.,0.018301671546161184,0.008947487791738524,,10,,12
+combined,fr_quatN,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.016805031335819176,0.007707829672113213,,10,,13
+combined,EState_VSA1,polarity / charge-related,may encode charge or electrotopological-state information.,0.016336040961922503,0.01914931730251647,,10,,14
+combined,SlogP_VSA6,lipophilicity,may encode lipophilicity-weighted structural information.,0.01569039327100917,0.0038326304286991552,,10,,15
+combined,SMR_VSA1,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.015488336588574838,0.006458772391458752,,10,,16
+combined,NumHeteroatoms,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.014296465047318508,0.008277194572507982,,10,,17
+combined,VSA_EState6,polarity / charge-related,may encode charge or electrotopological-state information.,0.013357322643408834,0.008775539861570366,,10,,18
+combined,NumSaturatedCarbocycles,other RDKit descriptor,captures an RDKit-defined structural property.,0.012495672206992641,0.025075835630216422,,10,,19
+combined,fr_C_O_noCOO,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.01129781060366041,0.004790321797677026,,10,,20
+combined,MaxPartialCharge,other RDKit descriptor,captures an RDKit-defined structural property.,0.010771857592591519,0.003740429804836815,,10,,21
+combined,NumAromaticRings,aromaticity / ring system,captures ring-system or aromaticity-related structure.,0.010621564573400515,0.011250771867277442,,10,,22
+combined,SMR_VSA7,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.01044599038131903,0.005414220948842912,,10,,23
+combined,SlogP_VSA1,lipophilicity,may encode lipophilicity-weighted structural information.,0.010287444700147183,0.0027092048229455695,,10,,24
+combined,VSA_EState4,polarity / charge-related,may encode charge or electrotopological-state information.,0.010199486169696934,0.003907550108933938,,10,,25
+combined,RingCount,aromaticity / ring system,captures ring-system or aromaticity-related structure.,0.008904013501012675,0.006894282698724646,,10,,26
+combined,PEOE_VSA7,polarity / charge-related,may encode charge or electrotopological-state information.,0.008365541632224005,0.003025572017232732,,10,,27
+combined,BCUT2D_MRLOW,other RDKit descriptor,captures an RDKit-defined structural property.,0.007360052696903666,0.002463304316070469,,10,,28
+combined,VSA_EState2,polarity / charge-related,may encode charge or electrotopological-state information.,0.007004325852917831,0.0019159173520173411,,10,,29
+combined,fr_Ar_N,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.006554044834681016,0.006956874592831643,,10,,30
+combined,fr_NH2,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.006483739985830986,0.01789202539952806,,10,,31
+combined,PEOE_VSA8,polarity / charge-related,may encode charge or electrotopological-state information.,0.006139617542981218,0.001023809847682448,,10,,32
+combined,fr_C_O,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.005871499524513303,0.006612733818446654,,10,,33
+combined,MolLogP,lipophilicity,may encode lipophilicity-weighted structural information.,0.005789660504637051,0.0009076024017260088,,10,,34
+combined,Chi4v,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.005555625858293127,0.0030953753379077426,,10,,35
+combined,fr_dihydropyridine,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.00550447789928348,0.003926237973911168,,10,,36
+combined,HallKierAlpha,other RDKit descriptor,captures an RDKit-defined structural property.,0.005496406962801134,0.001664145950549647,,10,,37
+combined,VSA_EState10,polarity / charge-related,may encode charge or electrotopological-state information.,0.005119441570239982,0.0019627992884604047,,10,,38
+combined,EState_VSA7,polarity / charge-related,may encode charge or electrotopological-state information.,0.004543691625046323,0.002026378412241516,,10,,39
+combined,Chi0n,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.004454458919492274,0.0032394816953836727,,10,,40
+combined,Chi4n,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.004352854933328787,0.003038924283825488,,10,,41
+combined,VSA_EState1,polarity / charge-related,may encode charge or electrotopological-state information.,0.004308890405553124,0.0007080046433064874,,10,,42
+combined,NumHeterocycles,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.004303780733370502,0.0033148077560607387,,10,,43
+combined,PEOE_VSA1,polarity / charge-related,may encode charge or electrotopological-state information.,0.00417217078927743,0.0013402916843924275,,10,,44
+combined,BCUT2D_MWHI,other RDKit descriptor,captures an RDKit-defined structural property.,0.004114864037612985,0.000847814530483806,,10,,45
+combined,fr_allylic_oxid,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.004059790432398975,0.0005654205358882233,,10,,46
+combined,PEOE_VSA10,polarity / charge-related,may encode charge or electrotopological-state information.,0.004043281687046372,0.0018387775366908317,,10,,47
+combined,fr_hdrzone,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0036557830349849864,0.0006976590193117027,,10,,48
+combined,SlogP_VSA11,lipophilicity,may encode lipophilicity-weighted structural information.,0.0035932309914468987,0.0016455203212230607,,10,,49
+combined,Chi0v,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.0034312203894948253,0.003307695507841955,,10,,50
+combined,fr_ArN,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.003407525051412094,0.01023507056250627,,10,,51
+combined,Chi2n,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.003330411304919412,0.0027707123958342636,,10,,52
+combined,PEOE_VSA9,polarity / charge-related,may encode charge or electrotopological-state information.,0.0032851816652649545,0.0019750823506834163,,10,,53
+combined,MinEStateIndex,other RDKit descriptor,captures an RDKit-defined structural property.,0.0029975004109381383,0.0016907670240344736,,10,,54
+combined,PEOE_VSA11,polarity / charge-related,may encode charge or electrotopological-state information.,0.0029616126894527737,0.0023712212219168865,,10,,55
+combined,SMR_VSA10,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.0029394843010873556,0.0005867874917720098,,10,,56
+combined,NumHAcceptors,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0029299434133664187,0.0015162117733405053,,10,,57
+combined,PEOE_VSA3,polarity / charge-related,may encode charge or electrotopological-state information.,0.0029151251040647284,0.0008896906870982834,,10,,58
+combined,fr_C_S,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0029142368413367413,0.001684670833000977,,10,,59
+combined,fr_NH0,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0027695894592616203,0.0006908386755556454,,10,,60
+combined,MaxAbsPartialCharge,other RDKit descriptor,captures an RDKit-defined structural property.,0.002684362406892737,0.0009650809200826527,,10,,61
+combined,Chi2v,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.002546999624340821,0.00217339774175162,,10,,62
+combined,NumAliphaticHeterocycles,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0025345917595870114,0.0005638588546263681,,10,,63
+combined,PEOE_VSA2,polarity / charge-related,may encode charge or electrotopological-state information.,0.0024206168978411803,0.0005902014447117028,,10,,64
+combined,MinAbsPartialCharge,other RDKit descriptor,captures an RDKit-defined structural property.,0.002418284909423277,0.002988824972767978,,10,,65
+combined,SlogP_VSA2,lipophilicity,may encode lipophilicity-weighted structural information.,0.0023446164268623422,0.0008184905416531342,,10,,66
+combined,fr_Ar_NH,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0022876536500312785,0.0007873089652488716,,10,,67
+combined,fr_pyridine,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0022560257404950265,0.0005130375575161106,,10,,68
+combined,LabuteASA,other RDKit descriptor,captures an RDKit-defined structural property.,0.002133205657966243,0.002947289598321025,,10,,69
+combined,fr_NH1,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.002124003953595871,0.001172082345821534,,10,,70
+combined,NumAromaticCarbocycles,aromaticity / ring system,captures ring-system or aromaticity-related structure.,0.0020483456443832603,0.0011180844979978538,,10,,71
+combined,BCUT2D_LOGPHI,lipophilicity,may encode lipophilicity-weighted structural information.,0.0020124449832001276,0.0009513567883764783,,10,,72
+combined,Chi1,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.001989339539978108,0.0033216331398795242,,10,,73
+combined,NOCount,other RDKit descriptor,captures an RDKit-defined structural property.,0.0019760181408975375,0.001363247322614449,,10,,74
+combined,TPSA,other RDKit descriptor,captures an RDKit-defined structural property.,0.001963434939602926,0.0005103402174815453,,10,,75
+combined,PEOE_VSA4,polarity / charge-related,may encode charge or electrotopological-state information.,0.0019454978052861377,0.0012522892716197585,,10,,76
+combined,NumSaturatedRings,aromaticity / ring system,captures ring-system or aromaticity-related structure.,0.0018997955720737897,0.001804379247316637,,10,,77
+combined,fr_guanido,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0018512157211334084,0.0008924217987760762,,10,,78
+combined,MinPartialCharge,other RDKit descriptor,captures an RDKit-defined structural property.,0.0018082027613285853,0.0004022793962151501,,10,,79
+combined,EState_VSA4,polarity / charge-related,may encode charge or electrotopological-state information.,0.001751375699610465,0.00153452670934958,,10,,80
+combined,fr_Nhpyrrole,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0017351651250123224,0.001083032456287874,,10,,81
+combined,Chi1v,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.0017111475412489214,0.0008983425913946515,,10,,82
+combined,SPS,other RDKit descriptor,captures an RDKit-defined structural property.,0.0016861080254397115,0.0006414920275592663,,10,,83
+combined,fr_ketone,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0016380639884286765,0.0032201176149761475,,10,,84
+combined,EState_VSA9,polarity / charge-related,may encode charge or electrotopological-state information.,0.0015828730278056348,0.0006865616165211553,,10,,85
+combined,MaxEStateIndex,other RDKit descriptor,captures an RDKit-defined structural property.,0.0015772016681141698,0.0014792943080273848,,10,,86
+combined,PEOE_VSA12,polarity / charge-related,may encode charge or electrotopological-state information.,0.0015668391479380483,0.0004961768371167589,,10,,87
+combined,NumAromaticHeterocycles,aromaticity / ring system,captures ring-system or aromaticity-related structure.,0.0015165071808141103,0.0014719564799621839,,10,,88
+combined,NumRotatableBonds,other RDKit descriptor,captures an RDKit-defined structural property.,0.0014962503201510038,0.0010361909810204923,,10,,89
+combined,PEOE_VSA14,polarity / charge-related,may encode charge or electrotopological-state information.,0.0014922350609909581,0.001972228074510506,,10,,90
+combined,Chi1n,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.001482484362182916,0.001231707258299321,,10,,91
+combined,VSA_EState5,polarity / charge-related,may encode charge or electrotopological-state information.,0.0013889479149653571,0.0003591041956051107,,10,,92
+combined,fr_benzene,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0013352031081731613,0.0010091290349351456,,10,,93
+combined,SlogP_VSA12,lipophilicity,may encode lipophilicity-weighted structural information.,0.0013004269029238855,0.0011338223617787077,,10,,94
+combined,MaxAbsEStateIndex,other RDKit descriptor,captures an RDKit-defined structural property.,0.001267037389069478,0.0004079731305516471,,10,,95
+combined,FractionCSP3,other RDKit descriptor,captures an RDKit-defined structural property.,0.0012087294275338744,0.0007545464619961351,,10,,96
+combined,BalabanJ,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.0011993508036893309,0.0009648483990902239,,10,,97
+combined,HeavyAtomMolWt,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.0011804283744970565,0.0017138047544998794,,10,,98
+combined,fr_Ar_OH,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.001161922372425748,0.002007693360229411,,10,,99
+combined,fr_ketone_Topliss,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0011521175470343074,0.0011308472842418197,,10,,100
+combined,fr_oxime,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.001145501761706295,0.00025730339879735274,,10,,101
+combined,EState_VSA5,polarity / charge-related,may encode charge or electrotopological-state information.,0.0011191991469602935,0.000528128375896328,,10,,102
+combined,fr_hdrzine,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0010985844637481537,0.0003806090554027065,,10,,103
+combined,SMR_VSA9,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.0010959182426653151,0.0003447735098284537,,10,,104
+combined,Chi3n,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.0010929127540643343,0.0009712135691082432,,10,,105
+combined,SMR_VSA4,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.0010802825536776705,0.0005760680103029928,,10,,106
+combined,BCUT2D_MRHI,other RDKit descriptor,captures an RDKit-defined structural property.,0.001077080677490827,0.00020973699991820333,,10,,107
+combined,VSA_EState8,polarity / charge-related,may encode charge or electrotopological-state information.,0.0010750528730370554,0.000497197665299745,,10,,108
+combined,BCUT2D_LOGPLOW,lipophilicity,may encode lipophilicity-weighted structural information.,0.0010708195110989344,0.0005323745180381832,,10,,109
+combined,Phi,other RDKit descriptor,captures an RDKit-defined structural property.,0.0010510083390029641,0.000975427104703395,,10,,110
+combined,VSA_EState3,polarity / charge-related,may encode charge or electrotopological-state information.,0.0010504532287953783,0.0003622177390645228,,10,,111
+combined,qed,other RDKit descriptor,captures an RDKit-defined structural property.,0.0010498674408486435,0.0006671882701624044,,10,,112
+combined,NHOHCount,other RDKit descriptor,captures an RDKit-defined structural property.,0.0010496242300635315,0.0010553215048898941,,10,,113
+combined,fr_aryl_methyl,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0010353359978684852,0.0003426944523377419,,10,,114
+combined,fr_bicyclic,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0010274279957741893,0.0004879064556575214,,10,,115
+combined,fr_Al_OH,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0009905290828095565,0.00043675991167112336,,10,,116
+combined,MinAbsEStateIndex,other RDKit descriptor,captures an RDKit-defined structural property.,0.0009626699952341546,0.00035497172913412524,,10,,117
+combined,VSA_EState9,polarity / charge-related,may encode charge or electrotopological-state information.,0.0009216589286272205,0.0003935616451225203,,10,,118
+combined,VSA_EState7,polarity / charge-related,may encode charge or electrotopological-state information.,0.0009214984684004868,0.0003680480157281765,,10,,119
+combined,Chi3v,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.0009200238491535205,0.0005722109391206957,,10,,120
+combined,SMR_VSA5,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.0009012383200630704,0.00015457570805003828,,10,,121
+combined,Kappa1,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.0008938495464716992,0.00036448183252237536,,10,,122
+combined,SlogP_VSA3,lipophilicity,may encode lipophilicity-weighted structural information.,0.0008554746967905696,0.0002852208133555797,,10,,123
+combined,fr_Ar_COO,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0007948338957990025,0.0006622426673464421,,10,,124
+combined,fr_para_hydroxylation,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0007823413511009837,0.0001880009204342238,,10,,125
+combined,NumSaturatedHeterocycles,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0007535933458651386,0.0002730279610237183,,10,,126
+combined,Chi0,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.0007513643577480334,0.0013497953779509325,,10,,127
+combined,FpDensityMorgan2,other RDKit descriptor,captures an RDKit-defined structural property.,0.000744765267164942,0.0003245929128789707,,10,,128
+combined,BCUT2D_CHGLO,polarity / charge-related,may encode charge or electrotopological-state information.,0.0007272691012344912,0.00021170135669559446,,10,,129
+combined,Kappa2,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.0007269519089728568,0.00036155528768030634,,10,,130
+combined,PEOE_VSA5,polarity / charge-related,may encode charge or electrotopological-state information.,0.000721725896120918,0.00035315820202296477,,10,,131
+combined,Kappa3,topology / connectivity,"captures graph connectivity, branching, or shape information.",0.0007038181174355339,0.0004890374644049639,,10,,132
+combined,FpDensityMorgan3,other RDKit descriptor,captures an RDKit-defined structural property.,0.0006950682303619338,0.00021941640707304446,,10,,133
+combined,EState_VSA3,polarity / charge-related,may encode charge or electrotopological-state information.,0.0006759335233722508,0.0001893896757402018,,10,,134
+combined,NumAliphaticRings,aromaticity / ring system,captures ring-system or aromaticity-related structure.,0.0006725179567984811,0.0003221971396344437,,10,,135
+combined,PEOE_VSA13,polarity / charge-related,may encode charge or electrotopological-state information.,0.0006684092539232173,0.00016450162273303414,,10,,136
+combined,EState_VSA6,polarity / charge-related,may encode charge or electrotopological-state information.,0.0006596446314433696,0.0001914618402440566,,10,,137
+combined,SlogP_VSA4,lipophilicity,may encode lipophilicity-weighted structural information.,0.000653444654130726,0.0002817249988058705,,10,,138
+combined,ExactMolWt,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.0006386789781068829,0.0007476852513431321,,10,,139
+combined,PEOE_VSA6,polarity / charge-related,may encode charge or electrotopological-state information.,0.0006211972350542201,0.0002295326126147724,,10,,140
+combined,BCUT2D_CHGHI,polarity / charge-related,may encode charge or electrotopological-state information.,0.0006099422319288351,0.00024236182964591942,,10,,141
+combined,NumAtomStereoCenters,other RDKit descriptor,captures an RDKit-defined structural property.,0.0005905037509843167,0.0004720871785622784,,10,,142
+combined,MolWt,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.0005709066377093059,0.00046421970171561306,,10,,143
+combined,NumBridgeheadAtoms,other RDKit descriptor,captures an RDKit-defined structural property.,0.0005658553620040654,0.0004148327543818292,,10,,144
+combined,NumAliphaticCarbocycles,other RDKit descriptor,captures an RDKit-defined structural property.,0.0005615259147548389,0.0001896890101797534,,10,,145
+combined,BCUT2D_MWLOW,other RDKit descriptor,captures an RDKit-defined structural property.,0.0005416986505157249,0.00020665207858179375,,10,,146
+combined,EState_VSA2,polarity / charge-related,may encode charge or electrotopological-state information.,0.0005117745083528753,0.00014324514505360472,,10,,147
+combined,FpDensityMorgan1,other RDKit descriptor,captures an RDKit-defined structural property.,0.0004771737313684026,0.00015539921252253982,,10,,148
+combined,fr_Imine,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0004732389933690288,0.0004638717881731245,,10,,149
+combined,SlogP_VSA5,lipophilicity,may encode lipophilicity-weighted structural information.,0.00045674732663558503,5.820160602314903e-05,,10,,150
+combined,fr_imidazole,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0003887798387564956,0.00037363643850243564,,10,,151
+combined,EState_VSA10,polarity / charge-related,may encode charge or electrotopological-state information.,0.0003856946535424576,0.0003472273354387169,,10,,152
+combined,NumHDonors,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0003287094408910587,0.0004342385089380067,,10,,153
+combined,fr_COO,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.00029812884423038974,0.0006357330490411589,,10,,154
+combined,fr_priamide,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0002774274311516747,0.0001991785446006573,,10,,155
+combined,fr_unbrch_alkane,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0002719468154461798,0.00025318774928539684,,10,,156
+combined,fr_piperdine,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0002664499013962998,0.0001913357414481399,,10,,157
+combined,NumValenceElectrons,other RDKit descriptor,captures an RDKit-defined structural property.,0.000260418454047468,0.00017470880577851448,,10,,158
+combined,fr_furan,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.00025667030875982974,0.0006291323701731422,,10,,159
+combined,fr_urea,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0002409437896286554,0.00033498352338137,,10,,160
+combined,SMR_VSA2,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.0002047835259984336,0.00015094706575545855,,10,,161
+combined,fr_amidine,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.00019894440663017053,0.00015383290436440385,,10,,162
+combined,fr_phenol,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0001867333506191694,0.0003984930417950775,,10,,163
+combined,fr_azide,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.000171230919078648,0.00015411238877751838,,10,,164
+combined,fr_piperzine,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0001629294971977164,0.0002479150004950372,,10,,165
+combined,NumSpiroAtoms,other RDKit descriptor,captures an RDKit-defined structural property.,0.00013988684758457851,0.00023028126598459921,,10,,166
+combined,fr_nitroso,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.00012826186014316555,0.00016964826717235778,,10,,167
+combined,fr_N_O,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.00012071383450558849,0.00019892035062865743,,10,,168
+combined,HeavyAtomCount,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.00011259384218563433,0.00035605299181615545,,10,,169
+combined,NumUnspecifiedAtomStereoCenters,other RDKit descriptor,captures an RDKit-defined structural property.,0.00010320172467379954,0.0001743533723196762,,10,,170
+combined,fr_Ndealkylation1,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,9.973909913968198e-05,0.00029532155960555604,,10,,171
+combined,fr_SH,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,8.223046016987076e-05,0.00017552129649645119,,10,,172
+combined,fr_Ndealkylation2,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,7.151839869538693e-05,0.00012490212679850405,,10,,173
+combined,fr_Al_OH_noTert,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,6.010632571534925e-05,0.00012675638658420774,,10,,174
+combined,EState_VSA11,polarity / charge-related,may encode charge or electrotopological-state information.,0.0,0.0,,10,,175
+combined,NumRadicalElectrons,other RDKit descriptor,captures an RDKit-defined structural property.,0.0,0.0,,10,,176
+combined,SMR_VSA8,molecular size / constitutional,"captures molecular size, composition, or refractivity-related information.",0.0,0.0,,10,,177
+combined,SlogP_VSA7,lipophilicity,may encode lipophilicity-weighted structural information.,0.0,0.0,,10,,178
+combined,SlogP_VSA9,lipophilicity,may encode lipophilicity-weighted structural information.,0.0,0.0,,10,,179
+combined,fr_HOCCN,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,180
+combined,fr_aldehyde,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,181
+combined,fr_alkyl_carbamate,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,182
+combined,fr_alkyl_halide,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,183
+combined,fr_azo,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,184
+combined,fr_barbitur,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,185
+combined,fr_benzodiazepine,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,186
+combined,fr_diazo,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,187
+combined,fr_epoxide,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,188
+combined,fr_ester,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,189
+combined,fr_ether,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,190
+combined,fr_halogen,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,191
+combined,fr_imide,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,192
+combined,fr_isocyan,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,193
+combined,fr_isothiocyan,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,194
+combined,fr_lactam,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,195
+combined,fr_lactone,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,196
+combined,fr_methoxy,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,197
+combined,fr_morpholine,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,198
+combined,fr_nitrile,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,199
+combined,fr_nitro,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,200
+combined,fr_nitro_arom,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,201
+combined,fr_nitro_arom_nonortho,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,202
+combined,fr_oxazole,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,203
+combined,fr_phenol_noOrthoHbond,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,204
+combined,fr_phos_acid,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,205
+combined,fr_phos_ester,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,206
+combined,fr_prisulfonamd,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,207
+combined,fr_sulfide,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,208
+combined,fr_sulfonamd,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,209
+combined,fr_sulfone,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,210
+combined,fr_term_acetylene,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,211
+combined,fr_tetrazole,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,212
+combined,fr_thiazole,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,213
+combined,fr_thiocyan,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,214
+combined,fr_thiophene,hydrogen bonding / heteroatom,may encode heteroatom or functional-group information.,0.0,0.0,,10,,215
