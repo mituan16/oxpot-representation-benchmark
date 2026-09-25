@@ -1,0 +1,11 @@
+{
+  "adjacent_rank_pairs": 96,
+  "adjacent_pairs_resolved": 51,
+  "adjacent_pairs_resolved_fraction": 0.53125,
+  "adjacent_pairs_below_experimental_repro_sd": 96,
+  "rank1_cells": 16,
+  "rank1_cells_with_unique_winner": 3,
+  "mean_top_group_size": 2.0,
+  "experimental_repro_sd_median_V": 0.049,
+  "label_fidelity_loo_mae_V": 0.219
+}

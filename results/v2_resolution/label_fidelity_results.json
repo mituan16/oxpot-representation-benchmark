@@ -1,0 +1,76 @@
+{
+  "inputs": {
+    "oxpot_rows": 15238,
+    "lee_rows": 592,
+    "oxpot_std_fail": 0,
+    "lee_std_fail": 0
+  },
+  "reference_shift_V": 0.043999999999999984,
+  "matching": {
+    "exact_canonical_smiles": {
+      "n_matched": 61,
+      "oxpot_parents_collapsed": 0,
+      "matched_with_collapsed_oxpot": 0
+    },
+    "std_inchikey_stereo": {
+      "n_matched": 62,
+      "oxpot_parents_collapsed": 9,
+      "matched_with_collapsed_oxpot": 0
+    },
+    "std_inchikey_nostereo": {
+      "n_matched": 62,
+      "oxpot_parents_collapsed": 9,
+      "matched_with_collapsed_oxpot": 0
+    }
+  },
+  "agreement": {
+    "n": 62,
+    "pearson_r": 0.709283311909845,
+    "r2": 0.5030828165537984,
+    "reference_converted_only": {
+      "n": 62,
+      "mae": 0.36261875,
+      "rmse": 0.4471081893253014,
+      "mean_signed": -0.305102620967742
+    },
+    "linear_recalibration_in_sample": {
+      "n": 62,
+      "mae": 0.21208250879313023,
+      "rmse": 0.3142224235782187,
+      "mean_signed": -5.622742415037083e-16,
+      "slope": 0.7786032413188122,
+      "intercept": 0.45854842931111756
+    },
+    "linear_recalibration_loo": {
+      "n": 62,
+      "mae": 0.2190115557278242,
+      "rmse": 0.32429323767165164,
+      "mean_signed": 0.00031266032361078913,
+      "mae_ci95": [
+        0.16355675582950394,
+        0.28275563838496914
+      ]
+    },
+    "loo_excluding_collapsed_oxpot": {
+      "n": 62,
+      "mae": 0.2190115557278242,
+      "rmse": 0.32429323767165164,
+      "mean_signed": 0.00031266032361078913
+    }
+  },
+  "experimental_reproducibility": {
+    "lee_molecules_with_multiple_reports": 194,
+    "fraction": 0.3277027027027027,
+    "sd_mean": 0.0624352044883582,
+    "sd_median": 0.048962489143155596,
+    "range_mean": 0.1494567010309278,
+    "matched_subset_with_multiple_reports": 18
+  },
+  "source_paper_calibration": {
+    "r2": 0.977,
+    "rmse_V": 0.064,
+    "slope": -0.661,
+    "intercept": -2.773,
+    "note": "in-sample fit on the source paper's calibration set, mostly aqueous"
+  }
+}

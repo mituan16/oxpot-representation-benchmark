@@ -41,3 +41,22 @@ Do not redistribute publisher-provided raw supplementary Excel files unless the 
 ## Citation
 
 Manuscript under review; citation to be added.
+
+## Resolution and label-fidelity analyses (v1.1.0)
+
+These analyses use only the existing run-level results (`results/raw/TableS1_full_raw_results.csv`)
+and CPU computation.
+
+1. Place `grouped_dataset_acetonitrile_neutral.csv` from the data release of Lee et al.
+   (Mach. Learn.: Sci. Technol. 2024, 5, 015052) in `data/raw/` (not redistributed here).
+2. Run, from the repository root:
+
+```
+python scripts/07_label_fidelity_audit.py
+python scripts/08_resolution_and_learning_curves.py
+python scripts/09_build_v2_figures.py
+```
+
+Outputs are written to `results/v2_resolution/` and `figures/main/`. A difference between two
+methods is called resolved when all five seeds agree in sign and a two-sided paired t-test gives
+p < 0.05; see the manuscript for details.
